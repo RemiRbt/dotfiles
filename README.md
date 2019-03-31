@@ -1,6 +1,7 @@
 # Dotfiles
 
 * [.bashrc](/.bashrc)
+* [.hyper.js](/.hyper.js)
 
 # Helpers for windows :
 ## Add a shortcut for 'Internet options' :
