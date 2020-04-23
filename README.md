@@ -7,6 +7,7 @@
 ```shell
 cd ~
 git clone git@github.com:remirobichet/dotfiles.git
+cd dotfiles
 bash bootstrap.sh
 ```
 
