@@ -46,8 +46,3 @@ alias ln='ln -i'
 alias chown='chown --preserve-root'
 alias chmod='chmod --preserve-root'
 alias chgrp='chgrp --preserve-root'
-
-## apache helpers
-alias apachetest='sudo apache2ctl -t'
-alias apachevhosts='sudo apache2ctl -t -D DUMP_VHOSTS'
-alias apacherestart='sudo systemctl restart apache2'
